@@ -88,6 +88,7 @@ public class App2 {
 
         System.out.println("\nAvailable Rooms:");
         for (Room room : rooms) {
+
             if (room.status.equals("Vacant")) {
                 System.out.println(room);
             }

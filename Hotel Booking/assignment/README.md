@@ -7,7 +7,7 @@ Create a program that manages hotel room reservations.
 - Each room should have a number and a status (e.g., vacant, occupied).
 ### Provide options to:
 - View available rooms.
-Reserve a room.
+- Reserve a room.
 - Check out from a room.
 - Allow the user to input their name and contact information when reserving a room.
 - Display a confirmation message with reservation details.
